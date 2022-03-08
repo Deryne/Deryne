@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Deryne
+- 👋 Hi, I’m @Deryne, student in a computer engineering school
 - 👀 I’m interested in learning GamePlay Programmaing language.
-- 🌱 I’m currently learning how to create video game with Unity and C#.
+- 🌱 I’m currently learning how to create video game with Unity and C#
 
 
 <!---
